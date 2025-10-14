@@ -2,7 +2,26 @@ body {
     font-family: "Roboto", "Raleway", "Monserat", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-}
+    line-height: 1.5;
+    }
 ul {
     list-style-type: none;
+}
+.logo {
+    font-family: "Raleway";
+    line-height: 1.16667;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 18px;
+}
+.nav-list .nav-link {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-weight: 500;
+    font-size: 16px;
+    color: #434455;
+}
+.nav-list .nav-link:hover,
+.nav-list .nav-link:focus {
+    color: #443FB0;
 }
