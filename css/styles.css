@@ -32,23 +32,13 @@ ul {
 .contact-address {
     font-style: normal;
 }
-.contact .contact-mail { 
+.contact .contacts { 
     color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;    
 }
-.contact .contact-mail:hover,
-.contact .contact-mail:focus {
-    color: #404bbf;
-}
-.contact .contact-tel {   
-    color: #434455;    
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    
-}
-.contact .contact-tel:hover,
-.contact .contact-tel:focus {
+.contact .contacts:hover,
+.contact .contacts:focus {
     color: #404bbf;
 }
 .hero-section {
